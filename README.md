@@ -1,1 +1,1 @@
-# .github
+Welcome to 0xsp SRD GitHub profile! 0xsp.com focused on red teaming and advanced techniques. On this profile, you will find a selection of my research and projects in the field of cybersecurity. Thank you for visiting, and feel free to reach out if you have any questions or want to collaborate on a project.
